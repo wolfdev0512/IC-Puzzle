@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 74 101.43">
+  <defs>
+    <style>
+      .a9a8088a-9c2d-462d-bcf9-b21f6fe1de45 {
+        fill: #a3a3a3;
+      }
+
+      .be30a42c-d37e-40eb-b43a-c23e0e74daa1 {
+        fill: #fefdf8;
+      }
+
+      .a3c6ee1d-3be4-4b87-a69f-d336d06309ce {
+        fill: #3f176f;
+      }
+
+      .e1cc8593-78cd-4eaa-90fd-849320f93668 {
+        fill: url(#bdfdebbe-9b4d-4b17-9df3-80e132d2efa7);
+      }
+
+      .efb5c596-31a6-45eb-b238-970053f4d88d {
+        fill: url(#e68ea39e-d75d-4867-ad2a-fa04e30bc322);
+      }
+    </style>
+    <radialGradient id="bdfdebbe-9b4d-4b17-9df3-80e132d2efa7" cx="98.64" cy="36.71" r="5.25" gradientTransform="matrix(-1.9, -0.01, -0.01, 1.79, 248.55, -22.84)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.15" stop-color="#ff9765"/>
+      <stop offset="0.2" stop-color="#fc9273"/>
+      <stop offset="0.29" stop-color="#f58598"/>
+      <stop offset="0.34" stop-color="#f07cb0"/>
+      <stop offset="0.43" stop-color="#f078ac"/>
+      <stop offset="0.52" stop-color="#ee6aa0"/>
+      <stop offset="0.62" stop-color="#ec558b"/>
+      <stop offset="0.72" stop-color="#e93a72"/>
+      <stop offset="0.76" stop-color="#ea3f79"/>
+      <stop offset="0.81" stop-color="#eb4c8b"/>
+      <stop offset="0.88" stop-color="#ee61a9"/>
+      <stop offset="0.95" stop-color="#f17ed3"/>
+      <stop offset="1" stop-color="#f494f2"/>
+    </radialGradient>
+    <radialGradient id="e68ea39e-d75d-4867-ad2a-fa04e30bc322" cx="99.9" cy="36.75" r="4.8" gradientTransform="matrix(-1.9, -0.01, -0.01, 1.79, 248.55, -22.84)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff9765"/>
+      <stop offset="0.12" stop-color="#fc9273"/>
+      <stop offset="0.34" stop-color="#f58598"/>
+      <stop offset="0.47" stop-color="#f07cb0"/>
+      <stop offset="0.54" stop-color="#f07eb4"/>
+      <stop offset="0.62" stop-color="#f182c2"/>
+      <stop offset="0.7" stop-color="#f28ad7"/>
+      <stop offset="0.78" stop-color="#f496f6"/>
+      <stop offset="0.81" stop-color="#f599ff"/>
+      <stop offset="0.83" stop-color="#f594f8"/>
+      <stop offset="0.87" stop-color="#f788e6"/>
+      <stop offset="0.91" stop-color="#f973c8"/>
+      <stop offset="0.95" stop-color="#fb569e"/>
+      <stop offset="1" stop-color="#ff3169"/>
+    </radialGradient>
+  </defs>
+  <g id="a4d2b079-193c-4391-8ea9-025e32d74a1b" data-name="Layer 2">
+    <g id="f0a28e80-9a9a-4a6e-9205-236f3c30a34e" data-name="IDENTITY">
+      <g id="b058280e-c3ae-4132-a5c6-8f26d42ecc2a" data-name="Layer 57">
+        <g id="b2520c6d-54d1-4d69-9b2b-ce0cc18ee56c" data-name="Layer 46">
+          <g id="fabe9b02-1034-407d-8c4e-8bcbca950361" data-name="Layer 45">
+            <path class="a9a8088a-9c2d-462d-bcf9-b21f6fe1de45" d="M25.25,93.56A11.88,11.88,0,0,1,37,81.56V0a11.95,11.95,0,0,0-6.9,21.7l.06,3.21L26,27.43H17.5v74H28.14A12.12,12.12,0,0,1,25.25,93.56Z"/>
+            <path class="be30a42c-d37e-40eb-b43a-c23e0e74daa1" d="M48,27.43l-4.2-2.52.06-3.21A11.95,11.95,0,0,0,37,0V81.56a11.88,11.88,0,0,1,11.75,12,12.12,12.12,0,0,1-2.89,7.87H56.5v-74Z"/>
+            <g id="ada8c587-48f2-42bd-ba2a-6c3d0cbdd4b4" data-name="Layer 83 copy 3">
+              <path d="M6.38,27.42H17.5a0,0,0,0,1,0,0v73.9a0,0,0,0,1,0,0H6.38A6.38,6.38,0,0,1,0,94.94V33.79A6.38,6.38,0,0,1,6.38,27.42Z"/>
+              <path class="a3c6ee1d-3be4-4b87-a69f-d336d06309ce" d="M56.5,27.42h10a7.5,7.5,0,0,1,7.5,7.5v59a7.44,7.44,0,0,1-7.44,7.44H56.5a0,0,0,0,1,0,0V27.42a0,0,0,0,1,0,0Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="e0bea605-3825-4042-bca3-43433ca152c8" data-name="Layer 80 copy 14">
+          <g>
+            <path class="e1cc8593-78cd-4eaa-90fd-849320f93668" d="M52.11,44.41c.39,2.57,2.44,4.82,3.74,4.83,1,0,5-1.63,5.59-4.65a4.21,4.21,0,0,0-5.53-4.92C52.84,39.65,51.52,40.62,52.11,44.41Z"/>
+            <path class="efb5c596-31a6-45eb-b238-970053f4d88d" d="M50.37,44.75c.6,2.52,4.18,4.48,5.48,4.49,1,0,3.84-6.19.06-9.57C52.52,38.49,49.47,41,50.37,44.75Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

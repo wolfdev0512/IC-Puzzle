@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 49 49">
+  <defs>
+    <style>
+      .ffa65785-0fdd-4505-9a8f-84b81348c42d {
+        fill: url(#ab89c456-19e8-44ac-a554-6007e1b42f4c);
+      }
+    </style>
+    <linearGradient id="ab89c456-19e8-44ac-a554-6007e1b42f4c" x1="47.97" y1="49.53" x2="-1.92" y2="-3.66" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe8e8"/>
+      <stop offset="0" stop-color="#ffe6e6"/>
+      <stop offset="0.08" stop-color="#ffa2a1"/>
+      <stop offset="0.15" stop-color="#ff6a68"/>
+      <stop offset="0.21" stop-color="#ff3e3b"/>
+      <stop offset="0.27" stop-color="#ff1e1b"/>
+      <stop offset="0.31" stop-color="#ff0b07"/>
+      <stop offset="0.35" stop-color="#ff0400"/>
+      <stop offset="1"/>
+    </linearGradient>
+  </defs>
+  <g id="bdff9715-2fec-49d4-bf92-3484f7b74d30" data-name="Layer 2">
+    <g id="babdbacb-346d-4680-a76a-5997e1affaf9" data-name="Layer 2">
+      <rect class="ffa65785-0fdd-4505-9a8f-84b81348c42d" width="49" height="49" rx="10.22"/>
+    </g>
+  </g>
+</svg>

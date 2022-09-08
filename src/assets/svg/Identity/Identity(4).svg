@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 86.01 102.57">
+  <defs>
+    <style>
+      .a056dca4-17c2-4127-9b7a-552f3d99aa6d {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="a91a093a-803f-444c-9299-9173a2c1aca5" data-name="Layer 2">
+    <g id="a942f29c-367a-4aeb-ba1f-1caac5d899e3" data-name="Layer 1">
+      <g id="b6150817-f610-4560-a85a-dd32426b87b7" data-name="bc41df00-aeff-44be-8a7e-a3b4eec7e29b">
+        <g id="e7537f96-58de-49f4-82f0-badc66c0b6ba" data-name="b695b1bd-9db1-4f9e-afff-30f460eaa750">
+          <g id="be996142-265c-4ea0-a09f-586750fd10af" data-name="f92d5d8c-3aac-4744-9abc-b55be9ca999d">
+            <g id="f9b89005-a70d-4f0f-bf63-471f3f5f3776" data-name="faa4cf22-b14e-485a-91ff-04ce126c504f">
+              <g id="e8d590c9-dc64-4ffb-ad98-8f6cfa7f21dc" data-name="aefe9795-941b-4062-ade0-8245931b41b6">
+                <path class="a056dca4-17c2-4127-9b7a-552f3d99aa6d" d="M78.79,66.17a6.67,6.67,0,0,0-4.29,1.55V35.12a7.05,7.05,0,0,0-7-7h-19l-4.25-2.55.06-3.21a12,12,0,1,0-16.72-2.89h0a12.23,12.23,0,0,0,2.91,2.92l.07,3.18L26.5,28.07H7.5a7.05,7.05,0,0,0-7,7V95a7.06,7.06,0,0,0,7.05,7.06h60a7.06,7.06,0,0,0,7-7.06v-17a6.72,6.72,0,1,0,4.29-11.89Z"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

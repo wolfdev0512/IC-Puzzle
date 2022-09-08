@@ -1,0 +1,159 @@
+type User = 
+ variant {
+   address: AccountIdentifier;
+   "principal": principal;
+ };
+type TransferResponse = 
+ variant {
+   err:
+    variant {
+      CannotNotify: AccountIdentifier;
+      InsufficientBalance;
+      InvalidToken: TokenIdentifier;
+      Other: text;
+      Rejected;
+      Unauthorized: AccountIdentifier;
+    };
+   ok: Balance;
+ };
+type TransferRequest = 
+ record {
+   amount: Balance;
+   from: User;
+   memo: Memo;
+   notify: bool;
+   subaccount: opt SubAccount;
+   to: User;
+   token: TokenIdentifier;
+ };
+type TokenIndex = nat32;
+type TokenIdentifier = text;
+type Token = 
+ record {
+   createdAt: int;
+   owner: AccountIdentifier;
+   txId: text;
+ };
+type Tag = text;
+type SubAccount = vec nat8;
+type Result_2 = 
+ variant {
+   err: text;
+   ok: nat;
+ };
+type Result_1 = 
+ variant {
+   err: CommonError;
+   ok: vec TokenIndex;
+ };
+type Result = 
+ variant {
+   err: text;
+   ok;
+ };
+type Response = 
+ variant {
+   err: CommonError;
+   ok: Balance;
+ };
+type Request = 
+ record {
+   owner: User;
+   spender: principal;
+   token: TokenIdentifier;
+ };
+type Record = 
+ record {
+   asset: Asset;
+   meta: Meta;
+ };
+type PuzzleNFT = 
+ service {
+   allowance: (Request) -> (Response);
+   approve: (ApproveRequest) -> ();
+   bearer: (TokenIdentifier) -> (BearerResponse) query;
+   configureMetadata: (vec Metadata) -> (Result);
+   getAll: () -> (vec Record);
+   getTokens: () -> (vec record {
+                           TokenIndex;
+                           Metadata__1;
+                         }) query;
+   greet: (text) -> (text) query;
+   metadata: (TokenIdentifier) -> (MetadataResponse) query;
+   mint: (User) -> (Result_2);
+   readLedger: () -> (vec opt Token);
+   readMeta: () -> (vec Metadata) query;
+   shuffleMetadata: () -> ();
+   tokenId: (TokenIndex) -> (TokenIdentifier) query;
+   tokens: (AccountIdentifier) -> (Result_1) query;
+   tokensBackup: () -> (LocalStableState) query;
+   tokensRestore: (LocalStableState) -> (Result);
+   transfer: (TransferRequest) -> (TransferResponse);
+   upload: (blob) -> ();
+   uploadFinalize: (text, Meta) -> (Result);
+ };
+type Metadata__1 = 
+ variant {
+   fungible:
+    record {
+      decimals: nat8;
+      metadata: opt blob;
+      name: text;
+      symbol: text;
+    };
+   nonfungible: record {metadata: opt blob;};
+ };
+type MetadataResponse = 
+ variant {
+   err: CommonError;
+   ok: Metadata__1;
+ };
+type Metadata = 
+ record {
+   back: text;
+   border: text;
+   ink: text;
+ };
+type Meta = 
+ record {
+   description: text;
+   filename: FilePath;
+   name: text;
+   tags: vec Tag;
+ };
+type Memo = blob;
+type LocalStableState = 
+ record {
+   isShuffled: bool;
+   metadata: vec Metadata;
+   tokens: vec opt Token;
+ };
+type FilePath = text;
+type CommonError = 
+ variant {
+   InvalidToken: TokenIdentifier;
+   Other: text;
+ };
+type BearerResponse = 
+ variant {
+   err: CommonError;
+   ok: AccountIdentifier;
+ };
+type Balance = nat;
+type Asset = 
+ record {
+   contentType: text;
+   payload: vec blob;
+ };
+type ApproveRequest = 
+ record {
+   allowance: Balance;
+   spender: principal;
+   subaccount: opt SubAccount;
+   token: TokenIdentifier;
+ };
+type AccountIdentifier = text;
+service : (principal, record {
+                        name: text;
+                        supply: nat16;
+                      }) -> PuzzleNFT

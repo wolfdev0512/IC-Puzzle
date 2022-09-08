@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 49 49">
+  <defs>
+    <style>
+      .a0b454e9-7612-4b0a-a4f1-d661fa175daa {
+        fill: url(#f1b5ef26-544c-494c-935d-e92ce66958e1);
+      }
+    </style>
+    <linearGradient id="f1b5ef26-544c-494c-935d-e92ce66958e1" x1="-82.21" y1="-189.64" x2="-36.92" y2="-144.35" gradientTransform="translate(86.02 193.45)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffaded"/>
+      <stop offset="0.36" stop-color="#ff00c8"/>
+      <stop offset="0.43" stop-color="#fa00c4"/>
+      <stop offset="0.52" stop-color="#ed01ba"/>
+      <stop offset="0.6" stop-color="#d603a9"/>
+      <stop offset="0.69" stop-color="#b70490"/>
+      <stop offset="0.78" stop-color="#8e0771"/>
+      <stop offset="0.87" stop-color="#5d0a4b"/>
+      <stop offset="0.97" stop-color="#240e1e"/>
+      <stop offset="1" stop-color="#0d0f0d"/>
+    </linearGradient>
+  </defs>
+  <g id="a1b6dcdf-2567-4559-ae3d-5e80bd8f1031" data-name="Layer 2">
+    <g id="b2cbe676-6cb0-4e65-95fc-3036cf9495b0" data-name="Layer 2">
+      <rect class="a0b454e9-7612-4b0a-a4f1-d661fa175daa" width="49" height="49" rx="10.22" transform="translate(49 49) rotate(180)"/>
+    </g>
+  </g>
+</svg>

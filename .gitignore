@@ -1,0 +1,21 @@
+# Various IDEs and Editors
+.vscode/
+.idea/
+**/*~
+.vessel/
+
+# Mac OSX temporary files
+.DS_Store
+**/.DS_Store
+
+# dfx temporary files
+.dfx/
+canister_ids.json
+
+# frontend code
+node_modules/
+out/
+
+# Next.js
+.next/
+

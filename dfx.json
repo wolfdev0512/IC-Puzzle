@@ -1,0 +1,27 @@
+{
+  "canisters": {
+    "puzzle": {
+      "main": "backend/main.mo",
+      "type": "motoko"
+    },
+
+    "puzzle_assets": {
+      "dependencies": ["puzzle"],
+      "source": ["out"],
+      "type": "assets"
+    }
+  },
+  "defaults": {
+    "build": {
+      "packtool": "vessel sources"
+    }
+  },
+  "dfx": "0.8.4",
+  "networks": {
+    "local": {
+      "bind": "127.0.0.1:8000",
+      "type": "ephemeral"
+    }
+  },
+  "version": 1
+}

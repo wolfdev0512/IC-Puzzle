@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 49 49">
+  <defs>
+    <style>
+      .b7e45fc8-f0b6-43cb-b7bd-7a7c0e7fffc0 {
+        fill: url(#adff0080-6a31-4ad6-86c5-597f2c89dfef);
+      }
+    </style>
+    <linearGradient id="adff0080-6a31-4ad6-86c5-597f2c89dfef" y1="24.5" x2="49" y2="24.5" gradientTransform="translate(49 49) rotate(-180)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffe380"/>
+      <stop offset="0.5" stop-color="#bf830b"/>
+      <stop offset="1" stop-color="#ed5a58"/>
+    </linearGradient>
+  </defs>
+  <g id="a3880167-d44b-4e50-b37e-53e1fcb8a00d" data-name="Layer 2">
+    <g id="b1337cd3-3c21-4d91-b8dc-87cd61dac983" data-name="Layer 2">
+      <rect class="b7e45fc8-f0b6-43cb-b7bd-7a7c0e7fffc0" width="49" height="49" rx="10.22" transform="translate(49 49) rotate(180)"/>
+    </g>
+  </g>
+</svg>

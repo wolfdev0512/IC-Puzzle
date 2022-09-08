@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 74.78 108.76">
+  <defs>
+    <style>
+      .bbcb6de3-14bc-4be7-b130-aaff6a807924 {
+        fill: #fda4b6;
+      }
+
+      .ead1b2b0-50ee-4f7b-865a-2270f39aa907 {
+        fill: #09d2fe;
+      }
+
+      .b69e0228-2f68-4c3a-a5be-712e79bb08f6 {
+        fill: #fff;
+      }
+
+      .af225c2d-7573-46de-bfad-8b6b292c59ad {
+        fill: url(#a41cbfc2-292a-4a34-87d6-3f419d8d8b34);
+      }
+
+      .a12350b1-64cb-46d6-8f79-8778797f7fe2 {
+        fill: url(#e26b50ba-1f9a-4c6b-8017-d078cf0d4e5a);
+      }
+    </style>
+    <radialGradient id="a41cbfc2-292a-4a34-87d6-3f419d8d8b34" cx="99.39" cy="36.82" r="5.25" gradientTransform="matrix(-1.9, -0.01, -0.01, 1.79, 250.73, -22.92)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.15" stop-color="#ff9765"/>
+      <stop offset="0.2" stop-color="#fc9273"/>
+      <stop offset="0.29" stop-color="#f58598"/>
+      <stop offset="0.34" stop-color="#f07cb0"/>
+      <stop offset="0.43" stop-color="#f078ac"/>
+      <stop offset="0.52" stop-color="#ee6aa0"/>
+      <stop offset="0.62" stop-color="#ec558b"/>
+      <stop offset="0.72" stop-color="#e93a72"/>
+      <stop offset="0.76" stop-color="#ea3f79"/>
+      <stop offset="0.81" stop-color="#eb4c8b"/>
+      <stop offset="0.88" stop-color="#ee61a9"/>
+      <stop offset="0.95" stop-color="#f17ed3"/>
+      <stop offset="1" stop-color="#f494f2"/>
+    </radialGradient>
+    <radialGradient id="e26b50ba-1f9a-4c6b-8017-d078cf0d4e5a" cx="100.65" cy="36.87" r="4.8" gradientTransform="matrix(-1.9, -0.01, -0.01, 1.79, 250.73, -22.92)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff9765"/>
+      <stop offset="0.12" stop-color="#fc9273"/>
+      <stop offset="0.34" stop-color="#f58598"/>
+      <stop offset="0.47" stop-color="#f07cb0"/>
+      <stop offset="0.54" stop-color="#f07eb4"/>
+      <stop offset="0.62" stop-color="#f182c2"/>
+      <stop offset="0.7" stop-color="#f28ad7"/>
+      <stop offset="0.78" stop-color="#f496f6"/>
+      <stop offset="0.81" stop-color="#f599ff"/>
+      <stop offset="0.83" stop-color="#f594f8"/>
+      <stop offset="0.87" stop-color="#f788e6"/>
+      <stop offset="0.91" stop-color="#f973c8"/>
+      <stop offset="0.95" stop-color="#fb569e"/>
+      <stop offset="1" stop-color="#ff3169"/>
+    </radialGradient>
+  </defs>
+  <g id="b9ffa7ad-fab3-486c-abf9-51ba4630f0e2" data-name="Layer 2">
+    <g id="b0b8a31d-702c-4da8-bb02-42ce27612300" data-name="IDENTITY">
+      <g id="f66aca98-c551-4749-8d0b-b744b1d147d7" data-name="Layer 65">
+        <g id="b0679d77-82bf-427d-90aa-2b06bd5a5337" data-name="Layer 58">
+          <rect class="bbcb6de3-14bc-4be7-b130-aaff6a807924" x="13.25" y="27.48" width="12.39" height="73.95"/>
+          <rect class="bbcb6de3-14bc-4be7-b130-aaff6a807924" x="49.89" y="27.48" width="12.39" height="73.95"/>
+          <path class="ead1b2b0-50ee-4f7b-865a-2270f39aa907" d="M74.78,93.92V34.56a7.08,7.08,0,0,0-7.08-7.08H61.53v74h5.74A7.51,7.51,0,0,0,74.78,93.92Z"/>
+          <path class="ead1b2b0-50ee-4f7b-865a-2270f39aa907" d="M0,93.92V34.56a7.08,7.08,0,0,1,7.08-7.08h6.17v74H7.51A7.51,7.51,0,0,1,0,93.92Z"/>
+          <path class="b69e0228-2f68-4c3a-a5be-712e79bb08f6" d="M30.85,21.7l.06,3.21-4.2,2.52H25.64v74H49.89v-74h-1.1l-4.2-2.52.06-3.21a12,12,0,1,0-13.8,0Z"/>
+          <path class="b69e0228-2f68-4c3a-a5be-712e79bb08f6" d="M39.2,104.13v-.69l.9-.54h.23V87.1H35.14v15.8h.24l.89.54v.69a2.55,2.55,0,1,0,4,2.08A2.52,2.52,0,0,0,39.2,104.13Z"/>
+        </g>
+        <g id="b02ca88e-dbd2-4b82-9a02-72251b744907" data-name="Layer 80 copy 9">
+          <g>
+            <path class="af225c2d-7573-46de-bfad-8b6b292c59ad" d="M52.86,44.52c.39,2.57,2.44,4.83,3.74,4.83,1,0,5-1.63,5.59-4.65a4.21,4.21,0,0,0-5.53-4.92C53.59,39.76,52.27,40.73,52.86,44.52Z"/>
+            <path class="a12350b1-64cb-46d6-8f79-8778797f7fe2" d="M51.12,44.86c.6,2.52,4.18,4.49,5.48,4.49,1,0,3.84-6.19.06-9.57C53.27,38.6,50.22,41.13,51.12,44.86Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64.25 64.5">
+  <defs>
+    <style>
+      .b1f58cb7-4317-4dfb-bfe7-1c93b2b0df7f {
+        fill: #6dbbdf;
+      }
+    </style>
+  </defs>
+  <g id="af506106-377c-4e02-8bff-2d766d5d32fb" data-name="Layer 2">
+    <g id="b2ed789f-f10a-4bb6-a1bf-9002552da2c4" data-name="Shapes">
+      <g id="a7c0ef72-a1dd-4b88-8e6d-663dc0129030" data-name="16">
+        <path class="b1f58cb7-4317-4dfb-bfe7-1c93b2b0df7f" d="M55.78,21.5a10.9,10.9,0,0,1,8.47,4V5.69A5.69,5.69,0,0,0,58.56,0H5.69A5.69,5.69,0,0,0,0,5.69V25.51A10.75,10.75,0,1,1,0,39V58.81A5.69,5.69,0,0,0,5.69,64.5H58.56a5.69,5.69,0,0,0,5.69-5.69V39A10.82,10.82,0,1,1,55.78,21.5Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

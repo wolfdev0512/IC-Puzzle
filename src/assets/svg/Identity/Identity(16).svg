@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 74.97 101.43">
+  <defs>
+    <style>
+      .b81bf4a5-5391-4d14-abb2-ee96294b6202 {
+        fill: #05d961;
+      }
+
+      .a9f9f3f3-df6c-4037-8a50-ce0cb6c0f697 {
+        fill: #e90274;
+      }
+
+      .e8e995b5-5f8c-457b-be58-195d61efb331 {
+        fill: #0493fd;
+      }
+
+      .a3affb29-3e7f-4d3b-986a-6fff5846ad77 {
+        fill: url(#f1559e08-5318-4c20-bc79-47b40684256a);
+      }
+
+      .b3b05e02-c65f-455e-ba6a-fb3599514c38 {
+        fill: url(#a722024b-5e08-4072-9fc9-9abb6291dd5a);
+      }
+    </style>
+    <radialGradient id="f1559e08-5318-4c20-bc79-47b40684256a" cx="99.02" cy="36.82" r="5.25" gradientTransform="matrix(-1.9, -0.01, -0.01, 1.79, 249.66, -22.93)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.15" stop-color="#ff9765"/>
+      <stop offset="0.2" stop-color="#fc9273"/>
+      <stop offset="0.29" stop-color="#f58598"/>
+      <stop offset="0.34" stop-color="#f07cb0"/>
+      <stop offset="0.43" stop-color="#f078ac"/>
+      <stop offset="0.52" stop-color="#ee6aa0"/>
+      <stop offset="0.62" stop-color="#ec558b"/>
+      <stop offset="0.72" stop-color="#e93a72"/>
+      <stop offset="0.76" stop-color="#ea3f79"/>
+      <stop offset="0.81" stop-color="#eb4c8b"/>
+      <stop offset="0.88" stop-color="#ee61a9"/>
+      <stop offset="0.95" stop-color="#f17ed3"/>
+      <stop offset="1" stop-color="#f494f2"/>
+    </radialGradient>
+    <radialGradient id="a722024b-5e08-4072-9fc9-9abb6291dd5a" cx="100.28" cy="36.87" r="4.8" gradientTransform="matrix(-1.9, -0.01, -0.01, 1.79, 249.66, -22.93)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff9765"/>
+      <stop offset="0.12" stop-color="#fc9273"/>
+      <stop offset="0.34" stop-color="#f58598"/>
+      <stop offset="0.47" stop-color="#f07cb0"/>
+      <stop offset="0.54" stop-color="#f07eb4"/>
+      <stop offset="0.62" stop-color="#f182c2"/>
+      <stop offset="0.7" stop-color="#f28ad7"/>
+      <stop offset="0.78" stop-color="#f496f6"/>
+      <stop offset="0.81" stop-color="#f599ff"/>
+      <stop offset="0.83" stop-color="#f594f8"/>
+      <stop offset="0.87" stop-color="#f788e6"/>
+      <stop offset="0.91" stop-color="#f973c8"/>
+      <stop offset="0.95" stop-color="#fb569e"/>
+      <stop offset="1" stop-color="#ff3169"/>
+    </radialGradient>
+  </defs>
+  <g id="b8505cb5-4481-4ab6-a9b3-5177f4139136" data-name="Layer 2">
+    <g id="a3439d7c-c8f0-4984-bc9a-250f77ba7a26" data-name="IDENTITY">
+      <g id="f93290d3-7b96-4816-921f-73927d1f4d89" data-name="Layer 43">
+        <path class="b81bf4a5-5391-4d14-abb2-ee96294b6202" d="M67.61,27.5a7,7,0,0,1,1.84.25,7.07,7.07,0,0,0-2.12-.32H48.42l-4.2-2.52.06-3.21a12,12,0,1,0-13.8,0l.06,3.21-4.19,2.52H7.44a7,7,0,0,0-3.38.86A7.05,7.05,0,0,1,7.3,27.5H25v73.93h3.45a12.05,12.05,0,0,1-2.81-7.76,11.75,11.75,0,1,1,23.5,0,12.1,12.1,0,0,1-2.8,7.76h3.44V27.5Z"/>
+        <g id="bf1019d2-3ff4-47fb-babe-e97f595779f1" data-name="Layer 79 copy">
+          <path class="a9f9f3f3-df6c-4037-8a50-ce0cb6c0f697" d="M7,27.58H25.2a0,0,0,0,1,0,0v73.85a0,0,0,0,1,0,0H6.47A6.47,6.47,0,0,1,0,95V34.61A7,7,0,0,1,7,27.58Z"/>
+          <path class="e8e995b5-5f8c-457b-be58-195d61efb331" d="M56.25,27.58H75a0,0,0,0,1,0,0v73.85a0,0,0,0,1,0,0H56.81a7,7,0,0,1-7-7V34.05A6.47,6.47,0,0,1,56.25,27.58Z" transform="translate(124.74 129.01) rotate(180)"/>
+        </g>
+        <g id="be79a4cf-51b7-42f9-ae97-60e99dd0bd3f" data-name="Layer 80 copy 2">
+          <g>
+            <path class="a3affb29-3e7f-4d3b-986a-6fff5846ad77" d="M52.49,44.52c.39,2.57,2.44,4.83,3.74,4.83,1,0,5-1.63,5.59-4.65a4.21,4.21,0,0,0-5.53-4.92C53.22,39.76,51.9,40.73,52.49,44.52Z"/>
+            <path class="b3b05e02-c65f-455e-ba6a-fb3599514c38" d="M50.75,44.86c.6,2.52,4.18,4.49,5.48,4.49,1,0,3.85-6.19.06-9.57C52.91,38.6,49.85,41.13,50.75,44.86Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
